@@ -1,0 +1,17 @@
+# Core dependencies
+numpy==1.26.4
+opencv-python==4.9.0.80
+
+# Learning models
+torch>=2.2.0
+torchvision>=0.17.0
+ultralytics==8.2.0
+easyocr==1.7.1
+
+# Speech Processing
+vosk==0.3.45
+sounddevice==0.4.6
+pyttsx3==2.90
+
+# Utilities
+word2number==1.1
